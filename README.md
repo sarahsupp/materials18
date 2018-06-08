@@ -66,3 +66,4 @@ usethis::use_course("https://github.com/karthik/nhm18/raw/master/nhm18.zip")
 - Work with your own data
 - Presentations
 - Any final questions
+- Head home with all your new ideas!
